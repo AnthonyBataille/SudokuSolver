@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file>woaw.wav</file>
+        <file>nani.wav</file>
+        <file>sudoku.ico</file>
+    </qresource>
+</RCC>
