@@ -5,4 +5,4 @@ A GUI Sudoku solver created with Qt Creator (Qt 5) for Windows. It relies on the
 
 ## Reference for this project
 
-R.W.R. Lewis. A Guide to Graph Colouring. Algorithms and Applications. *Springer*, 2016.
+R.M.R. Lewis. A Guide to Graph Colouring. Algorithms and Applications. *Springer*, 2016.
